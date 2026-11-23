@@ -1,5 +1,7 @@
 # knowledge-work-plugins 速查表 | Cheatsheet | Guía rápida
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Anthropic 官方的 knowledge-work-plugins：把 Claude 变成某个岗位专家的插件集，为 Claude Cowork 而建、也兼容 Claude Code。每个插件打包了一个岗位的技能（skills）、连接器（connectors）、斜杠命令（slash commands）和子代理，开箱是一套通用起点，真正的价值在于按你公司的工具、术语、流程改造成自己的版本。全部是 Markdown 和 JSON 文件，没有代码、没有构建步骤。
 
 - 上游项目：[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)（2026-10-18 实测 30,112 ★）
